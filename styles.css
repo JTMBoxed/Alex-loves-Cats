@@ -1,0 +1,34 @@
+body{margin: 0px;
+  text-align:center;
+font-family: 'Montserrat', sans-serif;
+font-size: 20px}
+  h1{  margin: auto;
+    font-size: 90px;
+  text-align: center;
+font-family: 'Short Stack', cursive;}
+h2{font-family: 'Short Stack', cursive;}
+
+
+.top-container{margin: 0px;background-color: #EAE3D2;
+  height: 900px;
+  padding-top: 100px;
+}
+/**************CLASS TAG**************/
+.middle-container{background-color: #607EAA;}
+.bottom-container{background-color: #607EAA;}
+.toy{position: absolute;
+right:300px;
+top:50px;
+width: 15%}
+.collar{position: absolute;
+left: 300px;
+top: 220px;
+width: 15%
+}
+.fatcat {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:30px;
+
+}
